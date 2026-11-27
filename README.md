@@ -28,20 +28,14 @@ Software Engineer based in **Hamburg, Germany**, building web and mobile applica
 
 ### Selected work
 
-<a href="https://flowboard-dev-jl.vercel.app/"><img src="./assets/flowboard.jpg" alt="FlowBoard — Kanban project management: application preview" width="820" /></a>
-
 **01 / [FlowBoard](https://github.com/jlpereira8/flowboard)**  
 Project management with Kanban boards, drag-and-drop workflows and relational data.  
 `Next.js` `TypeScript` `Prisma` `PostgreSQL`  
 [Live demo ↗](https://flowboard-dev-jl.vercel.app/) · [Case study](https://josepereira.dev/projects/flowboard)
 
-<a href="https://e-commerceapp-pi.vercel.app/"><img src="./assets/ecommerce.jpg" alt="Ecommerce — responsive storefront: application preview" width="820" /></a>
-
 **02 / [Ecommerce](https://github.com/jlpereira8/eCommerceApp)**  
 A responsive storefront with product discovery, wishlists, cart, checkout and dark mode.  
 [Live demo ↗](https://e-commerceapp-pi.vercel.app/) · [Case study](https://josepereira.dev/projects/ecommerce)
-
-<a href="https://crypto-dashboard-eosin-phi.vercel.app/"><img src="./assets/crypto.jpg" alt="Crypto Dashboard — cryptocurrency analytics: application preview" width="820" /></a>
 
 **03 / [Crypto Dashboard](https://github.com/jlpereira8/crypto-dashboard)**  
 Cryptocurrency market analytics with CoinGecko data, interactive charts and an asset converter.  
