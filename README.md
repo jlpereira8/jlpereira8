@@ -42,15 +42,6 @@ Cryptocurrency market analytics with CoinGecko data, interactive charts and an a
 `Next.js` `TanStack Query` `ApexCharts`  
 [Live demo ↗](https://crypto-dashboard-eosin-phi.vercel.app/) · [Case study](https://josepereira.dev/projects/crypto-dashboard)
 
-### On GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jlpereira8&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_rank=true" alt="Jose's GitHub statistics, provided by GitHub Readme Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlpereira8&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Languages by public repository code size, provided by GitHub Readme Stats" width="360" />
-</p>
-
-<sub>Cards reflect data available to the stats service. Language proportions describe repository code, not proficiency. [View contributions on GitHub](https://github.com/jlpereira8?tab=overview).</sub>
-
 ---
 
 **Have something in mind? [Let's talk ↗](mailto:jlpereira355@gmail.com)**
